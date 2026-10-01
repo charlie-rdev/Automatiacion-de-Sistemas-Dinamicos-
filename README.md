@@ -1,20 +1,6 @@
 # Control de sistemas dinámicos: guía de estudio para el examen de medio curso
 
-> Etiqueta de cada respuesta: Guía = sale de las definiciones; Lógica = se deduce de ellas; Estándar = teoría general (la guía no lo cubre).
 
-## Mapa de conceptos
-
-| Concepto | Preguntas | Puntos de la guía de definiciones |
-|---|---|---|
-| Sistema de control y sus variables | 7, 8 | 1 a 5 |
-| Retroalimentación | 19 | 6, 8, 21, 22 |
-| Modelo del sistema dinámico | 1, 2, 9 | 9, 10, 11 |
-| Linealización y variables de desviación | 12, 16, 17 | 11, 12, 17 |
-| Linealidad (sistemas lineales) | 6, 18 | 10, 11 |
-| Transformada de Laplace | 5, 11 | 14, 15, 16 |
-| Función de transferencia | 3, 10, 14 | 19, 20, 22 |
-| Diagrama de bloques | 4, 13, 15 | 21, 22 |
-| Controladores (On-Off, P, I, D, PI, PD, PID) | 20 a 25 | 6, 9 (solo contexto) |
 
 ## Fórmulas clave
 
